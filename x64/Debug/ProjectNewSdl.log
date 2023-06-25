@@ -1,0 +1,123 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (ProjectNewSdl.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  BaseObject.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  BossObject.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\fightfer\BossObject.h(24,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\BossObject.h(25,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\BossObject.cpp(81,32): warning C4305: '+=': truncation from 'double' to 'float'
+D:\fightfer\BossObject.cpp(177,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\BossObject.cpp(178,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\BossObject.cpp(209,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\BossObject.cpp(210,44): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\BossObject.cpp(237,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\BossObject.cpp(238,15): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  BulletObject.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Button.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  CommonFunc.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  ExplosionObject.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Geometric.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\fightfer\Geometric.h(15,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\fightfer\Geometric.h(25,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+  ImpTimer.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  main.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\fightfer\main.cpp(5,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+D:\fightfer\Geometric.h(15,2): warning C4091: 'typedef ': ignored on left of 'GeometricFormat' when no variable is declared
+D:\fightfer\Geometric.h(25,2): warning C4091: 'typedef ': ignored on left of 'ColorData' when no variable is declared
+D:\fightfer\BossObject.h(11,1): warning C4005: 'GRAVITY_SPEED': macro redefinition
+D:\fightfer\MainObject.h(10,1): message : see previous definition of 'GRAVITY_SPEED'
+D:\fightfer\BossObject.h(14,1): warning C4005: 'PLAYER_SPEED': macro redefinition
+D:\fightfer\MainObject.h(12,1): message : see previous definition of 'PLAYER_SPEED'
+D:\fightfer\BossObject.h(24,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\BossObject.h(25,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\main.cpp(267,37): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\fightfer\main.cpp(269,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\main.cpp(270,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\main.cpp(287,37): warning C4244: 'argument': conversion from 'int' to 'const float', possible loss of data
+D:\fightfer\main.cpp(368,52): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\fightfer\main.cpp(375,26): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\fightfer\main.cpp(477,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\fightfer\main.cpp(478,47): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\fightfer\main.cpp(536,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\fightfer\main.cpp(537,55): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+D:\fightfer\main.cpp(593,71): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+D:\fightfer\main.cpp(600,72): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  MainObject.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\fightfer\MainObject.cpp(91,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(92,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(156,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(157,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(162,46): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\fightfer\MainObject.cpp(167,66): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
+D:\fightfer\MainObject.cpp(206,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(225,22): warning C4305: '+=': truncation from 'double' to 'float'
+D:\fightfer\MainObject.cpp(282,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(292,32): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(315,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(316,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(318,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(319,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(340,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\MainObject.cpp(361,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\MainObject.cpp(371,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(372,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(374,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(375,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\MainObject.cpp(395,33): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\MainObject.cpp(421,39): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\MainObject.cpp(438,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  Map.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Menu.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  PlayerPower.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  Text.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+  ThreatsObject.cpp
+D:\fightfer\CommonFunc.h(103,2): warning C4091: 'typedef ': ignored on left of 'Input' when no variable is declared
+D:\fightfer\CommonFunc.h(115,2): warning C4091: 'typedef ': ignored on left of 'Map' when no variable is declared
+D:\fightfer\ThreatsObject.cpp(73,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(74,26): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(92,39): warning C4305: '+=': truncation from 'double' to 'float'
+D:\fightfer\ThreatsObject.cpp(139,14): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(164,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(165,47): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(167,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(168,36): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(181,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\ThreatsObject.cpp(193,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\ThreatsObject.cpp(200,19): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(201,31): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(203,28): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(204,48): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(216,29): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\ThreatsObject.cpp(230,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\ThreatsObject.cpp(245,49): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\fightfer\ThreatsObject.cpp(302,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(303,22): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+D:\fightfer\ThreatsObject.cpp(336,55): warning C4244: 'argument': conversion from 'float' to 'const int', possible loss of data
+  Generating Code...
+  ProjectNewSdl.vcxproj -> D:\fightfer\x64\Debug\fightfer.exe
