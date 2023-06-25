@@ -10,7 +10,7 @@
 5. Hỗ trợ
 6. Kết luận
 7. [Tham khảo](#tham-khảo)
-##Hướng dẫn cài đặt và chạy game
+## Hướng dẫn cài đặt và chạy game
 ### B1: Tải project về
 Cách 1: Trên Github, chọn Code => Copy url, sau đó mở Terminal, gõ git clone + url
 Cách 2: Tải trực tiếp file Zip về và giải nén
