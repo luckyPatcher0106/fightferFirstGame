@@ -3,7 +3,7 @@
 * Mã Sinh Viên: 22028219
 * Lớp môn học: INT2215_23
 ## Mục lục 
-1. [Hướng dẫn cài đặt và chạy game](https://github.com/luckyPatcher0106/fightfer_FirstCppGame#i-h%C6%B0%E1%BB%9Bng-d%E1%BA%ABn-c%C3%A0i-%C4%91%E1%BA%B7t-v%C3%A0-ch%E1%BA%A1y-game)
+1. [Hướng dẫn cài đặt và chạy game](#I-,-Hướng-dẫn-cài-đặt-và-chạy-game)
 2. Mô tả chung về trò chơi
 3. Các chức năng của trò chơi
 4. Các kỹ thuật lập trình được sử dụng
