@@ -62,5 +62,5 @@ Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã t�
 * Các trang web miễn phí về đồ họa như Crapix, Itch.io,....
 ### Liên hệ
 * Facebook: https://www.facebook.com/trong.thanh.0106/
-* Github: Thanhnhutrong0106
+* Github: luckyPatcher0106
 * Email: thanhnhutrong@gmail.com
