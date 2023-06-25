@@ -9,7 +9,7 @@
 4. Các kỹ thuật lập trình được sử dụng
 5. Hỗ trợ
 6. Kết luận
-7. Tham khảo
+7. [Tham khảo](#tham-khảo)
 ## I, Hướng dẫn cài đặt và chạy game
 ### B1: Tải project về
 Cách 1: Trên Github, chọn Code => Copy url, sau đó mở Terminal, gõ git clone + url
