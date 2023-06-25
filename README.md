@@ -4,18 +4,18 @@
 * Lớp môn học: INT2215_23
 ## Mục lục 
 1. [Hướng dẫn cài đặt và chạy game](#Hướng-dẫn-cài-đặt-và-chạy-game)
-2. Mô tả chung về trò chơi
-3. Các chức năng của trò chơi
-4. Các kỹ thuật lập trình được sử dụng
-5. Hỗ trợ
-6. Kết luận
+2. [Mô tả chung về trò chơi](#mô-tả-chung-về-trò-chơi)
+3. [Các chức năng của trò chơi](#các-chức-năng-của-trò-chơi)
+4. [Các kỹ thuật lập trình được sử dụng](#các-kỹ-thuật-lập-trình-được-sử-dụng)
+5. [Hỗ trợ](#Hỗ-trợ)
+6. [Kết luận](#Kết-luận)
 7. [Tham khảo](#tham-khảo)
 ## Hướng dẫn cài đặt và chạy game
 ### B1: Tải project về
 Cách 1: Trên Github, chọn Code => Copy url, sau đó mở Terminal, gõ git clone + url
 Cách 2: Tải trực tiếp file Zip về và giải nén
 ### B2: Cài đặt Visual Studio 2022
-Vào google gõ VS2022 và tải về bản mới nhất, cài đặt lên máy tính
+Vào google gõ VS Community 2022 và tải về bản mới nhất, cài đặt lên máy tính
 ### B3: Chạy game
 Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã tải về
 ## Mô tả chung về trò chơi
@@ -36,7 +36,6 @@ Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã t�
 * Ghi điểm, được hiện ở thanh menu phía trên màn hình
 * Khi kết thức trò chơi, ta có thể chơi lại hoặc thoát về menu ban đầu ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/adeabedc-70f1-4720-9e5e-ccef2fead2de)
 
-
 ### Các kỹ thuật lập trình được sử dụng
 * Sử dụng thư viện đồ họa SDL2
 * Lập trình hướng đối tượng (class) dùng để tạo các đối tượng riêng biệt thực hiện các chức năng của trò chơi
@@ -45,7 +44,6 @@ Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã t�
 * Danh sách/nhiều đối tượng
 * Cho phép lựa chọn nhân vật, lựa chọn map, tăng hấp dẫn cho trò chơi ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/33a0a974-6056-4c86-9456-5216bd9e84b2)
 ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/41d956d5-5144-4103-8834-0751e0d02f69)
-
 
 ### Hỗ trợ
 * Sử dụng các phần mềm edit để vẽ ảnh nhân vật như PhotoShop, Canva
