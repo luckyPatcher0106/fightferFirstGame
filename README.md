@@ -31,7 +31,8 @@ Mở VS2022, chọn Open Project, mở file ProjectNewSdl.sln từ file đã t�
 * Sử dụng nút phải chuột để bắn ra quả cầu ma thuật, nút trái chuột để nhảy di chuyển và tránh các chướng ngại
 * Sử dụng các button chức năng như pause, quit
 * ![image](https://github.com/Thanhnhutrong0106/Baitaplon/assets/126070350/22f681e7-32c3-4c6c-9ec8-d32a4df4351e)
-* Quái vật sẽ tự đuổi người chơi trong phạm vi tấn công, đồng thời sẽ bắn đạn khi người chơi ở trong tầm ngắm của quái
+* Có hai dạng quái: chuyển động và đứng yên
+* Quái vật chuyển động sẽ tự đuổi người chơi trong phạm vi tấn công và quái vật tĩnh sẽ bắn đạn khi người chơi ở trong tầm ngắm của quái
 * Chèn âm thanh vào các button
 * Được phép chọn nhân vật, chọn Map tăng hứng thú cho người chơi
 * Ghi điểm, được hiện ở thanh menu phía trên màn hình
